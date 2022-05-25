@@ -1,4 +1,4 @@
-- 👋 Hi, my name's Kirill Alekseev. Welcome to my page and feel free to connect with me
+- 👋 Hi, my name's Kirill Alekseev. Welcome to my profile and feel free to connect with me
 - 👀 I’m interested in front-end development and try something new all time
 - 🌱 I’m currently learning native JS, react
 - 📫 How to reach me on instagram: @alekseev_krll
